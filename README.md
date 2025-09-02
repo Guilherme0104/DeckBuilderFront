@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Status do Projeto">
-  <img src="https://img.shields.io/github/license/[seu-usuario]/DeckBuilderFront" alt="Licença">
-  <img src="https://img.shields.io/github/last-commit/[seu-usuario]/DeckBuilderFront" alt="Último Commit">
+  <img src="https://img.shields.io/github/license/Guilherme0104/DeckBuilderFront" alt="Licença">
+  <img src="https://img.shields.io/github/last-commit/Guilherme0104/DeckBuilderFront" alt="Último Commit">
 </p>
 
 ## 📜 Índice
